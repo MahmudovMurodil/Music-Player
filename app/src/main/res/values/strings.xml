@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourite_btn">Favourites</string>
+    <string name="playlist_btn">PlayLists</string>
+    <string name="total_songs">Total songs:</string>
+    <string name="world_of_music">World of Music</string>
+    <string name="song_name">Song Name</string>
+    <string name="start_">00:00</string>
+    <string name="end_">Loading...</string>
+    <string name="repeat">Repeat</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="timer">Timer</string>
+    <string name="share">Share</string>
+    <string name="music_player">Music Player</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="welcome_to">Welcome to Music Player</string>
+    <string name="lorem">ijbvibsciuauvsicaicascvy-ajob ciav</string>
+</resources>
